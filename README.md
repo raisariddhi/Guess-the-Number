@@ -21,4 +21,6 @@ A simple web-based game where players try to guess a randomly generated number w
 4. Receive feedback on your guess and continue guessing until you find the correct number.
 5. Click the "Refresh" button to generate a new random number and restart the game.
 
+![Image of Starting Game](IMAGE.png)
+
 Enjoy the challenge of guessing the correct number in this simple and fun game!
